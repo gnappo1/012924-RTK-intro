@@ -1,0 +1,6 @@
+{
+    "expenses": [
+        {"type": "Grocery", "amount": "$200", "notes": "Never go again to Whole Foods!"},
+        {"type": "Grocery", "amount": "$80", "notes": "Farmer cart behind Lucy's house"}
+    ]
+}
